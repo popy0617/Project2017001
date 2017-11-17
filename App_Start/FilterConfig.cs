@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace Prj2017001
+namespace WebApplication2
 {
     public class FilterConfig
     {

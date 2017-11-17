@@ -5,9 +5,8 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace Prj2017001.Controllers
+namespace WebApplication2.Controllers
 {
-    [Authorize]
     public class ValuesController : ApiController
     {
         // GET api/values
